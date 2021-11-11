@@ -39,9 +39,9 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			},	
 			attribute1 : 
 			{
-				name : 'Unpleasant', //Attribute name to be used for feedback and logging
+				name : 'Spiacevole', //Attribute name to be used for feedback and logging
 				title : {
-					media : {word : 'Unpleasant'}, //Name of the category presented in the task.
+					media : {word : 'Spiacevole'}, //Name of the category presented in the task.
 					css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				}, 
@@ -162,7 +162,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			// blockNum, nBlocks, attribute1, attribute2, and thecategory.
 			// Notice that this is HTML text.
 			instTemplatePractice : '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Part blockNum of nBlocks</u><br/><br/></p>' + 
+				'<font color="#000000"><u>Parte blockNum di nBlocks</u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Put a left finger on the <b>E</b> key for items that belong to the category ' + 
 				'<font color="#31b404">attribute1</font>.<br/>' + 
