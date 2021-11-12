@@ -164,7 +164,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			instTemplatePractice : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Parte blockNum di nBlocks</u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-				'Put a left finger on the <b>E</b> key for items that belong to the category ' + 
+				'Metti un dito della mano sinistra sul tasto <b>E</b> key for items that belong to the category ' + 
 				'<font color="#31b404">attribute1</font>.<br/>' + 
 				'Metti un dito della mano destra sul tasto <b>I</b> per gli items della categoria AAAA ' + 
 				'<font color="#31b404">attribute2</font>.<br/>' + 
@@ -175,7 +175,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			instTemplateCategoryRight : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-				'Put a left finger on the <b>E</b> key for items that belong to the category ' + 
+				'Metti un dito della mano sinistra sul tasto <b>E</b> key for items that belong to the category ' + 
 				'<font color="#31b404">attribute1</font>.<br/>' + 
 				'Put a right finger on the <b>I</b> key for items that belong to the category ' + 
 				'<font color="#31b404">attribute2</font> ' +
@@ -187,7 +187,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			instTemplateCategoryLeft : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-				'Put a left finger on the <b>E</b> key for items that belong to the category ' + 
+				'Metti un dito della mano sinistra sul tasto <b>E</b> key for items that belong to the category ' + 
 				'<font color="#31b404">attribute1</font> ' +
 				'and for items that belong to the category <font color="#31b404">thecategory</font>.<br/>' + 
 				'Put a right finger on the <b>I</b> key for items that belong to the category ' + 
