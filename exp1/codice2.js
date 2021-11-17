@@ -151,7 +151,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//Will appear at the bottom of the screen during trials.
 			remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
 			'In caso di errore, apparirà una <font color="#ff0000"><b>X</b></font> rossa. ' +
-			'Premi il tasto alternativo per continuare.<p/>',
+			'Premere l&#39;altro tasto per continuare.<p/>',
 			
 			finalText: 'Hai completato il compito<br/><br/>Premi SPAZIO per continuare.', 
 
@@ -168,10 +168,10 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'<font color="#31b404">attribute1</font>.<br/>' + 
 				'Posizionare l&#39;indice della mano destra sul tasto <b>I</b> per gli stimoli della categoria ' + 
 				'<font color="#31b404">attribute2</font>.<br/>' + 
-				'Items will appear one at a time.<br/><br/>' + 
-				'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' + 
-				'Press the other key to continue.<br/><br/>' + 
-				'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>', 
+				'Gli stimoli appariranno uno alla volta.<br/><br/>' + 
+				'In caso di errore, apparirà una <font color="#ff0000"><b>X</b></font> rossa. ' + 
+				'Premere l&#39;altro tasto per continuare.<br/><br/>' + 
+				'<p align="center">Premere la <b>barra spaziatrice</b> quando si è pronti a cominciare.</font></p></div>', 
 			instTemplateCategoryRight : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
@@ -180,10 +180,10 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'Posizionare l&#39;indice della mano destra sul tasto <b>I</b> per gli stimoli della categoria ' + 
 				'<font color="#31b404">attribute2</font> ' +
 				'e per gli stimoli della categoria <font color="#31b404">thecategory</font>.<br/>' + 
-				'Items will appear one at a time.<br/><br/>' + 
-				'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' + 
-				'Press the other key to continue.<br/><br/>' + 
-				'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>', 
+				'Gli stimoli appariranno uno alla volta.<br/><br/>' + 
+				'In caso di errore, apparirà una <font color="#ff0000"><b>X</b></font> rossa. ' + 
+				'Premere l&#39;altro tasto per continuare.<br/><br/>' + 
+				'<p align="center">Premere la <b>barra spaziatrice</b> quando si è pronti a cominciare.</font></p></div>', 
 			instTemplateCategoryLeft : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' + 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
@@ -192,9 +192,9 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'and for items that belong to the category <font color="#31b404">thecategory</font>.<br/>' + 
 				'Posizionare l&#39;indice della mano destra sul tasto <b>I</b> per gli stimoli della categoria ' + 
 				'<font color="#31b404">attribute2</font>.<br/>' + 
-				'Items will appear one at a time.<br/><br/>' + 
-				'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' + 
-				'Press the other key to continue.<br/><br/>' + 
+				'Gli stimoli appariranno uno alla volta.<br/><br/>' + 
+				'In caso di errore, apparirà una <font color="#ff0000"><b>X</b></font> rossa. ' + 
+				'Premere l&#39;altro tasto per continuare.<br/><br/>' + 
 				'<p align="center">Premere la <b>barra spaziatrice</b> quando si è pronti a cominciare.</font></p></div>', 
 			
 			//The default feedback messages for each cutoff. 
