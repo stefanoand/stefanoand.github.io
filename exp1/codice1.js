@@ -61,7 +61,7 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 			},
 
   base_url : {//Where are your images at?
-    image : 'https://stefanoand.github.io/exp1/img/'
+    image : 'https://stefanoand.github.io/exp1/img'
   }}
   );
   });
