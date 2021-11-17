@@ -31,11 +31,11 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 			}, 
 			media : [ //Stimuli
 				{word: 'Odio'},
-				{word: 'Abuse'},
-				{word: 'Sadness'},
-				{word: 'Pain'},
-				{word: 'Poison'},
-				{word: 'Grief'}
+				{word: 'Antipatia'},
+				{word: 'Rabbia'},
+				{word: 'Disastro'},
+				{word: 'Schifo'},
+				{word: 'Omicidio'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
@@ -49,12 +49,12 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Paradise'},
-				{word: 'Pleasure'},
-				{word: 'Cheer'},
-				{word: 'Wonderful'},
-				{word: 'Splendid'},
-				{word: 'Love'}
+				{word: 'Allegria'},
+				{word: 'Amore'},
+				{word: 'Felicita'},
+				{word: 'Simpatia'},
+				{word: 'Pace'},
+				{word: 'Paradiso'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
