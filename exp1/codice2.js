@@ -189,7 +189,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Posizionare l&#39;indice della mano sinistra sul tasto <b>E</b> per gli stimoli della categoria ' + 
 				'<font color="#31b404">attribute1</font> ' +
-				'and for items that belong to the category <font color="#31b404">thecategory</font>.<br/>' + 
+				'e per gli stimoli della categoria <font color="#31b404">thecategory</font>.<br/>' + 
 				'Posizionare l&#39;indice della mano destra sul tasto <b>I</b> per gli stimoli della categoria ' + 
 				'<font color="#31b404">attribute2</font>.<br/>' + 
 				'Gli stimoli appariranno uno alla volta.<br/><br/>' + 
