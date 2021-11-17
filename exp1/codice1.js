@@ -51,7 +51,7 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 			media : [ //Stimuli
 				{word: 'Allegria'},
 				{word: 'Amore'},
-				{word: 'Felicita'},
+				{word: 'Felicità'},
 				{word: 'Simpatia'},
 				{word: 'Pace'},
 				{word: 'Paradiso'}
