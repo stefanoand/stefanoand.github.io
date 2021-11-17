@@ -23,9 +23,9 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 
   		attribute1 : 
 			{
-			name : 'Unpleasant', //Attribute label
+			name : 'Negativo', //Attribute label
 			title : {
-				media : {word : 'Negative'}, //Name of the category presented in the task.
+				media : {word : 'Negativo'}, //Name of the category presented in the task.
 				css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
@@ -42,9 +42,9 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 			},
 		attribute2 : 
 			{
-			name : 'Pleasant', //Attribute label
+			name : 'Positivo', //Attribute label
 			title : {
-				media : {word : 'Positive'}, //Name of the category presented in the task.
+				media : {word : 'Positivo'}, //Name of the category presented in the task.
 				css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
