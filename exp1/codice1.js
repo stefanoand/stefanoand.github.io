@@ -3,9 +3,9 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 	var API = new APIConstructor();
 		  return stiatExtension({
 		  category : { 
-		    name : 'Black people', //Will appear in the data.
+		    name : 'Femminismo', //Will appear in the data.
 		    title : {
-		      media : {word : 'Black people'}, //Name of the category presented in the task.
+		      media : {word : 'Femminismo'}, //Name of the category presented in the task.
 		      css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
@@ -30,7 +30,7 @@ define(['pipAPI', 'https://stefanoand.github.io/exp1/codice2.js'], function(APIC
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Bomb'},
+				{word: 'Odio'},
 				{word: 'Abuse'},
 				{word: 'Sadness'},
 				{word: 'Pain'},
